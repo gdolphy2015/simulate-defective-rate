@@ -1,3 +1,5 @@
+%Simulating the probability of finding at least 2 defective products, with a defective rate of 5%, within a box of 50.
+
 %counter for the nth lot that has >= 2 defectives
 total = 0;
 
