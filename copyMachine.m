@@ -1,6 +1,6 @@
 # Given a copy machine that is broken today, find out the state of the copy machine after one month.
-# Given that if it is broken, there is a 15% chance that it will still be broken the next day,
-# and if it is working today, then there is a 95% chance it will work the next day. 
+# Given that if it is currently broken, there is a 15% chance that it will still be broken the next day,
+# and if it is currently working, then there is a 95% chance it will work the next day. 
 
 total = 0;
 
