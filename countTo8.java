@@ -1,5 +1,5 @@
 /*
- * Finding the number of solutions to x1 + x2 + x3 = 8, using only non-negative integers.
+ * Finding solutions to x1 + x2 + x3 = 8, using only non-negative integers.
  */
 
 public class countTo8 {
